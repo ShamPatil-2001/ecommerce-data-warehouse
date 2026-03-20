@@ -58,3 +58,28 @@ Implemented queries for:
 ---
 
 ## 📁 Project Structure
+
+ecommerce-data-warehouse/
+│
+├── 01_data/
+├── 02_etl/
+├── 03_sql/
+├── 04_notebooks/
+├── README.md
+
+---
+
+## 🚀 Key Learnings
+- Built end-to-end ETL pipeline
+- Designed star schema warehouse
+- Performed data transformation and feature engineering
+- Executed analytical SQL queries on warehouse data
+
+---
+
+## 📌 Future Improvements
+- Add Apache Airflow for orchestration
+- Implement real-time streaming using Kafka & Spark
+- Add dashboard visualization (Power BI / Tableau)
+
+---
